@@ -1,0 +1,15 @@
+---
+title: "Reid Banks"
+image: headshot.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/reid-banks-b27966440
+    - icon: inboxes
+      text: Contact
+      href: mailto:rb121@uark.edu
+---
+
+I'm a student at the University of Arkansas. [Replace this with 2-3 sentences: your major, your interests, and what you want to do next.]
